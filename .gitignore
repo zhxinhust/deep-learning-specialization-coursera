@@ -1,2 +1,4 @@
 *.pptx
 .ipynb_checkpoints
+01-Neural-Networks-and-Deep-Learning/week2/Programming-Assignments/datasets/test_catvnoncat.h5
+01-Neural-Networks-and-Deep-Learning/week2/Programming-Assignments/datasets/train_catvnoncat.h5
