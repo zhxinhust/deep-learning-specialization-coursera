@@ -1,4 +1,4 @@
-# [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+# [Deep Learning Specialization Coursera](https://www.coursera.org/specializations/deep-learning)
 
 ## Goals
 - Learn the foundations of Deep Learning
