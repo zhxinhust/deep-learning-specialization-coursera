@@ -30,5 +30,13 @@ This repo contains all my work for this specialization. All the code base, quiz 
     - [Quiz](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week3/quiz.pdf)
     - [Notes - Shallow neural networks](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week3/shallow-neural-network.ipynb)
     - [Programming Assignment - Planar Data Classification with one hidden layer](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week3/Programming%20Assignments/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv2.ipynb)
+      
+  - [Week 4 - Deep Neural Networks](https://github.com/andersy005/deep-learning-specialization-coursera/tree/master/01-Neural-Networks-and-Deep-Learning/week3)
+    - [Quiz](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week4/quiz.pdf)
+    - [Notes - Deep neural networks](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week4/deep-neural-networks.ipynb)
+    - [Programming Assignment 1 - Building your Deep Neural Network - Step by Step](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week4/Programming%20Assignments/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv3.ipynb)
+    
+     - [Programming Assignment 2 - Deep Neural Network Application: Image Classification](https://github.com/andersy005/deep-learning-specialization-coursera/blob/master/01-Neural-Networks-and-Deep-Learning/week4/Programming%20Assignments/Deep%20Neural%20Network%20Application:%20Image%20Classification/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv3.ipynb)
+    
     
     
